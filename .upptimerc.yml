@@ -11,6 +11,19 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  # five new added websites to monitor
+  - name: Youtube
+    url: https://www.youtube.com/
+  - name: Zuvio
+    url: https://irs.zuvio.com.tw/irs/login
+  - name: Python
+    url: https://www.python.org/
+  - name: Facebook
+    url: https://www.facebook.com/
+  - name: Twitter
+    url: https://twitter.com/
+  - name: 104 job bank
+    url: https://www.104.com.tw/jobs/main/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
