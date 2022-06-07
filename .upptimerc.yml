@@ -3,7 +3,7 @@ owner: chen905 # Your GitHub organization or username, where this repository liv
 repo: upptime_implement # The name of this repository
 
 sites:
-  # five new added websites to monitor
+  # six new added websites to monitor
   - name: Youtube
     url: https://www.youtube.com
   - name: Zuvio
