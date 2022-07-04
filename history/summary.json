@@ -22,9 +22,9 @@
     "url": "https://irs.zuvio.com.tw",
     "icon": "https://favicons.githubusercontent.com/irs.zuvio.com.tw",
     "slug": "zuvio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1256,
     "timeMonth": 1216,
     "timeYear": 1216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-04": 0
+    }
   },
   {
     "name": "Python",
